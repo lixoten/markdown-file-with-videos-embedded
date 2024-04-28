@@ -1,7 +1,7 @@
 # Project: Screenshots and Videos
 <hr />
 
-##Notes
+## Notes
 Since nothing else was modified....After in Terminal I did
 `git fetch origin`
 and
