@@ -1,6 +1,12 @@
 # Project: Screenshots and Videos
 <hr />
 
+##Notes
+Since nothing else was modified....After in Terminal I did
+`git fetch origin`
+and
+`git merge origin/main`
+
 ## Screenshots
 
 
